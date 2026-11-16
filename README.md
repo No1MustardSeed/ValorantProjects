@@ -1,2 +1,2 @@
 # ValorantProjects
-Code for my undrgrad projects that pertained to reseraching Valorant.
+Code for my undergrad projects that pertain to researching Valorant.
